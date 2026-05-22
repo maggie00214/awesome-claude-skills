@@ -451,3 +451,4 @@ A: For skills from git repositories, pull the latest changes. For manually insta
 ## 🤝 Contributing
 
 Contributions welcome! See [contribution guidelines](CONTRIBUTING.md) for details. To add a skill or resource: fork, add to appropriate section, submit PR.
+- [awesome-claude-skills-zh-tw](https://github.com/maggie00214/awesome-claude-skills-zh-tw) - Traditional Chinese curated list with Taiwan-specific skills
